@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Exercicio de soma onde � feito a soma entre dois double e um int
+//Exercicio de soma onde é feito a soma entre dois double e um int
 
 int main(int argc, char *argv[]) {
 
@@ -12,6 +12,6 @@ int main(int argc, char *argv[]) {
 
   soma = a + b + c;
 
-  printf("The sum of a, b, and c is %f", soma);
+  printf("A soma de a, b e c é %f", soma);
   return 0;
 }
